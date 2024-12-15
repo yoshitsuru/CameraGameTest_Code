@@ -1,7 +1,7 @@
 # CameraGameTest_Code
 UI操作で使用しているScriptについて
 
-〇Assets/Scripts
+**〇Assets/Scripts**
 CameraChanger.cs
 →カメラ切り替え、撮影(カメラの判定、)等UIの追加機能を実装
 
@@ -29,7 +29,7 @@ UIController.cs
 UI_Canvas_StarterAssetsInputs_JoysticksCameraGameScene内)
 
 
-〇追加Assets周り
+**〇追加Assets周り**
 
 StarterAssets
 ・Assets/StarterAssets(UI周り)
